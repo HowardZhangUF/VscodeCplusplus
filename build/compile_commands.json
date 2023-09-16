@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Howard/source/repos/VscodeCpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\Array.dir\\main.cpp.obj -c C:\\Users\\Howard\\source\\repos\\VscodeCpp\\CPlusPlus\\Array\\main.cpp",
+  "file": "C:/Users/Howard/source/repos/VscodeCpp/CPlusPlus/Array/main.cpp"
+}
+]
